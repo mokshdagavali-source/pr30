@@ -1,0 +1,48 @@
+<html>
+<head>
+  <title>student Registration</title>
+</head>
+<body>
+
+<h2>student Registration from</h2>
+
+<from>
+   name:
+   <input type="text" name="name">
+   <br><br>
+
+   email:
+   <input type="email name="email">
+         <br><br>
+        
+   password
+   <input type="password"
+name="password">
+   <br><br>
+  
+   branch:
+   </select name="branch">
+     <option>computer</option>
+     <option>it</option>
+     <option>ict>/option>
+  </select>
+  <br><br>
+
+  hobbies:
+  <input type="checkbox">reading
+  <input type"=checkbox">sports
+  <br><br>
+   
+  address:
+  <textarea rows="3"cols="20"></
+textarea>
+   <br><bt>
+ 
+   <input type="submit"
+value="register">
+    <input type="reset"value="clear">
+
+</foem>
+ 
+</body>
+</html>
